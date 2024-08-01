@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "app-inventor-423409",
+  "private_key_id": "f030e470299d378c0d1fdd044a6a04c7fd85b6cc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC96ebHJ+oIoC3z\nvlmC0Y7qI9dnRFklnuKh66F0ABibxjNndNm1J84sTBLEzkf91QuKeO54fR9JxJHg\n0j/h2552oR36Xy/gCTxnCJqDpRQmZTGjkBd4vm1KrRwKztULLmgjfVcZRXvF4uym\nEh+nFsSmHQDwWaHrxmchk6eJnurQBG6u8HoSIlKbGCetJmZLaLvzMXbYaZeNHPsV\nUZy3g9k9WcnfV5Whyjo1X57AJ6tN5pe7z1vG/7LhHO5MZLTaOJiI2eL/6edzr571\nxIUtW7Q/v/SSqgeXTOxYxokxW1m50OWyb8nE6cS7OahIrIiccxOWt+whu+TapRpD\nfXDb7hY1AgMBAAECggEADtNPYCKHdHsX/emRFcizrNIK9aViMIZl1UjueT6CV/Ns\nnbSDbqRSmzvTZu3eigbOCEDhXDe8+qEqgn/km5utfr/G9hMPtaAq87Uk0MbmhYp2\nn043PYZfbvSywMzoLd+xIqdye5x5vtc0l6XzDB7CJQs/Fe7oAx6hfD9z/6blAu4u\n53BG6ValcOqEMe34fy9EF9CjDbbNbDpeRsvjA9sweHlJArmvqFbgIYQAJ2y/iOnD\nYHLo0yJnkcnxj0Q0W6+/7JhT+O+1NFSvyRisXPyjDFNejkC6oHlM09d6lK9NRaCd\nHDrWVLxx1VEp6jlhtIfT+ES5naLk6Jq6gFz/12mtcQKBgQD8nsb/5zy/h31rnz4v\nxVINxwnEPPxeo4Vt0fpY8cNVbX4azHPBMHGO8So1BwoDROLQegWKJ8JNK649v57/\nNThHPUvuHaLj9oyZuREeFhKDD46xOjm4TbjjwxghD6BAuH4URMtJ6J48MZU+uiQM\nJhkOoZ8Z6h/ASawRPdiAQsAA0QKBgQDAdFrH4Bp0hVsnx/ZCwBhGqgxXdzf5iIYm\nmNxSYCsSXOL2CB4ibRdpiLq/h6yxXQsWC02eVKJAcyB4gT3v3HaZLK9ZflRVXKz9\ns1XUN2gDk3j2GvLB1wPd1Aax4Udx1+SzfPtgGFXlaYwINoFRS9JVDBRtgWUhwHCT\nWBc1bAx4JQKBgHD1qrRZOP/H3RxXq53+1M8WVlaqkorbAdn2j8Rf7uFvQXlIPOaA\n+/ZX/nCRwjduASIJvhpl5utNAe/YlIc3y/+G+EH0fJcE8x/18iKK6iIyvbKf/5lb\nH7aw0URPUXA/TxlPHbvhyYfPABZ5c47/Jis1uAgFecco6kkXZ40KzAJRAoGARr6+\n3DiCIREgeBgma1Un11oNHV3iwqSwA6IvY0ycqKxideR4B1mowI+VbnCWR8CXIaxY\nBPrBhgWMCyAfP3wAUMA/WRt6LsLZiI0S4ObZIm9kiLtRP3YloradG2hflfaxyFUK\nJsHrWWCaLC61DMhdcgv1umdVYLnX6CH6rhWg480CgYBPc+5+jS29HWr8VYJrbASn\njMOiSWzaqAtoIRTbS1T0+qU5gE4Vm/aEAgAUX0fGQr3u80C7v/qeprmBLTsQrKLl\nRZSg1PVxC0wPGbIHh5MdwDV04OjK0+Rh1D600GwUDMsDZhMHEhEudDzWE1plo9eF\nC2aMP2caiq36UMZrGEGO3w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "foodrescue@app-inventor-423409.iam.gserviceaccount.com",
+  "client_id": "105189291549388285575",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/foodrescue%40app-inventor-423409.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
